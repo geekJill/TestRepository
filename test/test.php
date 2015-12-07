@@ -1,3 +1,4 @@
 <?php
     $var = 'variable';
-    echo $val;
+    echo $val."\r\n";
+
