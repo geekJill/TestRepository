@@ -10,6 +10,7 @@ class test {
 	System.out.println('java java java');
 	System.out.println('java vs php');
 	System.out.println('test1');
+	System.out.println('test2');
     }
 
 }
