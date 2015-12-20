@@ -11,6 +11,7 @@ class test {
 	System.out.println('java vs php');
 	System.out.println('test1');
 	System.out.println('test22');
+	System.out.println('test2');
     }
 
 }
