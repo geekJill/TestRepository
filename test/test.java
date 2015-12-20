@@ -7,6 +7,7 @@ class test {
 	System.out.println("I love you Java");`
 	System.out.println('java is very good');
 	System.out.println('java java');
+	System.out.println('java java java');
     }
 
 }
