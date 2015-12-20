@@ -5,6 +5,7 @@ class test {
         System.out.println('helloworld');
 	System.out.print("I\'m is java");
 	System.out.println("I love you Java");`
+	System.out.println('java is very good');
     }
 
 }
